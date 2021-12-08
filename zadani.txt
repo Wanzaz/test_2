@@ -1,0 +1,25 @@
+1. V hlavní funkci si načtěte velikosti stran obdélníku. Napište funkci, která z těchto velikostí stran vrátí jeho obvod.
+2. V hlavní funkci si načtěte velikosti poloměru kružnice. Napište funkci, která vrátí obvod této kružnice.
+3. V hlavní funkci si načtěte koeficienty kvadratické rovnice ax2 + bx + c = 0. (reálná čísla). Napište funkci, která bude vracet počet různých řešení této rovnice. V hlavní funkci pak vypište počet řešení slovy.
+4. V hlavní funkci si načtěte dvě celá čísla x a y. Napište funkci, která vrátí menší číslo z těchto dvou čísel.
+5. Je dán časový údaj v sekundách. Napište funkci, která tyto sekundy převede na hodiny, minuty a sekundy. Výsledek hned vypište v té funkci.
+6. Je dán časový údaj ve dnech. Napište funkci, která tyto dny převede na roky, měsíce (30 dní) a sekundy. Výsledek hned vypište v té funkci.
+7. Je dáno celé nezáporné číslo n. Napište funkci, která vrátí jeho faktoriál.
+8. Ze vstupu načtěte počet dnů. Napište funkci, která vypíše ze dnů počet roků, měsíců a dnů.
+9. Máme číslo a dělitele. (oba typu int). Napište funkci, která vrátí číslo 1, jestliže je číslo dělitelné dělitelem beze zbytku. V hlavní funkci vypište, zda je číslo dělitelné nebo ne.
+10. Je celé číslo n dokonalé? U dokonalého čísla platí, že se rovná součtu svých dělitelů. Např. 6 = 1 + 2 + 3
+11. Máme dané celé kladné číslo větší než 1. Napište funkci, která vrací číslo 1, pokud je to číslo prvočíslo, jinak vrací 0.
+12. Máme dané reálné číslo x a nezáporné celé číslo n. Napište funkci, která vrací mocninu x na n-tou. (rekurzivně i nerekurzivně).
+13. Máme celé číslo n. Napište rekurzivní funkci, která vypíše čísla od 1 do n .
+14. Máme celé číslo n. Napište rekurzivní funkci, která vypíše čísla od n do 1.
+15. Napište funkci, která pro dvě celá čísla vypíše všechny jejich dělitele.
+16. Napište funkci nsd, která pro dvě celá čísla vrátí jejich největší společný dělitel.
+17. Máme celá čísla x a y. Nevíme, které je z nich je menší. Vaším úkolem je napsat funkci, která vypíše číslo od menšího čísla z x, y do většího z nich.
+18. Máme celá čísla x a y. Nevíme, které je z nich je menší. Vaším úkolem je napsat funkci, vrátí součet čísel od od menšího čísla z x, y do většího z nich.
+19. Máme celé kladné číslo n. Napiš funkci, která načte n čísel a vrátí z nich největší číslo.
+20. Máme celé kladné číslo n. Napiš funkci, která načte n čísel a vrátí z nich nejmenší číslo.
+21. Máme celé kladné číslo n. Napiš funkci, která vypíše všechny jeho kladné dělitele.
+22. Máme celé kladné číslo n. Napiš funkci, která vrátí počet všech jeho kladných dělitelů.
+23. Máme celé kladné číslo n. Napiš funkci, která vrátí součet všech jeho kladných dělitelů.
+24. Máme celé číslo x. Napište funkci, která bude načítat ze vstupu čísla tak dlouho, dokud nenačte číslo x. Funkce vrátí počet těchto čísel (bez čísla x).
+25. Máme celé číslo x. Napište funkci, která bude načítat ze vstupu čísla tak dlouho, dokud nenačte číslo x. Funkce vrátí součet těchto čísel (bez čísla x).
