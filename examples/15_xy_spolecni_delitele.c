@@ -17,7 +17,7 @@ void spolecny_delitel(int x, int y)
 
 int main()
 {
-    int pocet=0, x, y, i;
+    int x, y;
     printf("Enter the first number: ");
     scanf("%d", &x);
     printf("Enter the second number: ");
