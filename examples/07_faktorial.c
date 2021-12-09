@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*23. Navrhněte algoritmus, který pro zadané celé číslo N vypočte jeho faktoriál.*/
+/*7. Je dáno celé nezáporné číslo n. Napište funkci, která vrátí jeho faktoriál.*/
 
 int faktorial(int n)
 {
