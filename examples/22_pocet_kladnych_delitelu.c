@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*21. Máme celé kladné číslo n. Napiš funkci, která vypíše všechny jeho kladné dělitele.*/
+/*22. Máme celé kladné číslo n. Napiš funkci, která vrátí počet všech jeho kladných dělitelů.*/
 
 int delitele(int n)
 {
