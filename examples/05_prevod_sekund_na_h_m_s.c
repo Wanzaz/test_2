@@ -9,7 +9,7 @@ void prevod(int sekundy)
     zbytek = sekundy % 3600;
     zbytek2 = zbytek % 60;
     h = sekundy/3600;
-    m = prom/60;
+    m = zbyetk/60;
     s = zbytek;
     printf("%d sekund je %d hodin %d minut %d sekund", sekundy, h, m, s);
 }
