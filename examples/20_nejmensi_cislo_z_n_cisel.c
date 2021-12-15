@@ -3,7 +3,7 @@
 
 /*20. Máme celé kladné číslo n. Napiš funkci, která načte n čísel a vrátí z nich nejmenší číslo.*/
 
-int nejvetsi_cislo(int n)
+int nejmensi_cislo(int n)
 {
     int soucet, x;
     printf("Zadej cislo x: ");
